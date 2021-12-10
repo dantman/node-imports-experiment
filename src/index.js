@@ -1,0 +1,1 @@
+import './a/very/deep/import/index.js'

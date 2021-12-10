@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "imports-test",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "ISC",
+  "imports": {
+    "#utils": {
+      "default": "./src/utils/index.js"
+    }
+  }
+}
